@@ -1,13 +1,13 @@
 # Mengganti Core
 ```bash
-cd /usr/bin &&mv xray xray.bak &&clone &&chmod +x xray
+cd /usr/bin &&mv xray xray.bak &&wget https://github.com/rexname/xray-wss/raw/main/xray &&chmod +x xray
 ```
 ## Test Menggunakan Passwall
 Untuk Settingan di sesuiakan sesuai anda 
 
-<img src="./img/settingakun1.png" border=0>
+<img src="https://raw.githubusercontent.com/rexname/xray-wss/main/img/settingakun1.png" border=0>
 Perbedaanya adalah di pathnya anda bisa memkai `wss://bug/pathvpn`
-<img src="./img/setiingakun2.png" border=0>
+<img src="https://raw.githubusercontent.com/rexname/xray-wss/main/img/settingakun1.png" border=0>
 
 ## Menggunakan config
 Silahkan edit copy dan edit confignya dan taruh dimana saja.
